@@ -22,8 +22,8 @@ An AI-powered web app that analyzes your sketches and gives instant feedback.
 4. Open `index.html` with Live Server (VS Code extension)
 
 ## Screenshots
-![App Screenshot](screenshots/screenshot1.png)
-![Loading Screenshot](screenshots/screenshot2.png)
-![Result Screenshot](screenshots/screenshot3.png)
+![App Screenshot](screenshots/Screenshot1.png)
+![Loading Screenshot](screenshots/Screenshot2.png)
+![Result Screenshot](screenshots/Screenshot3.png)
 ---
 Built by [Kartikey](https://github.com/CoderCartikey)
